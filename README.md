@@ -31,9 +31,10 @@ Best accuracy: **~78%**
 
 ## Key Insights
 
-- Customers with higher monthly charges are more likely to churn
-- Customers with shorter tenure show higher churn risk
-- Contract type strongly affects customer retention
+- Customers with higher monthly charges are more likely to churn  
+- Customers with shorter tenure show higher churn risk  
+- Contract type strongly affects customer retention  
+- Service features such as OnlineSecurity and TechSupport also influence churn
 
 ---
 
