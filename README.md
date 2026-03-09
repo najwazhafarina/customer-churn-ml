@@ -1,10 +1,46 @@
 # Customer Churn Prediction
 
-End-to-end machine learning pipeline for predicting customer churn.
+End-to-end machine learning pipeline for predicting customer churn using machine learning models.
 
-Models used:
+## Models Used
 - Logistic Regression
 - Random Forest
 - Decision Tree
 
-Best accuracy: ~78%
+Best accuracy: **~78%**
+
+---
+
+## Model Accuracy Comparison
+
+![Model Comparison](model_comparison.png)
+
+---
+
+## ROC Curve
+
+![ROC Curve](roc_curve.png)
+
+---
+
+## Feature Importance
+
+![Feature Importance](feature_importance.png)
+
+---
+
+## Key Insights
+
+- Customers with higher monthly charges are more likely to churn
+- Customers with shorter tenure show higher churn risk
+- Contract type strongly affects customer retention
+
+---
+
+## Tech Stack
+
+Python  
+Pandas  
+Scikit-learn  
+Matplotlib  
+Seaborn
